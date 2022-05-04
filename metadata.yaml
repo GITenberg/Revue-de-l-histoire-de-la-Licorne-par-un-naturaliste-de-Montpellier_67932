@@ -1,0 +1,27 @@
+_repo: Revue-de-l-histoire-de-la-Licorne-par-un-naturaliste-de-Montpellier_67932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Amoreux, Pierre-Joseph
+    gutenberg_agent_id: '54540'
+    url: http://www.gutenberg.org/2009/agents/54540
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67932'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k11732355
+pgterms:marc905: 20220101094718amoreux
+pgterms:marc906: '1818'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Durville,1818.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Revue de l'histoire de la Licorne, par un naturaliste de Montpellier
+url: http://www.gutenberg.org/ebooks/67932
