@@ -1,11 +1,16 @@
 _repo: Revue-de-l-histoire-de-la-Licorne-par-un-naturaliste-de-Montpellier_67932
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67932-h/images/cover.jpg
 creator:
   author:
     agent_name: Amoreux, Pierre-Joseph
     gutenberg_agent_id: '54540'
     url: http://www.gutenberg.org/2009/agents/54540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67932#Revue-de-l-histoire-de-la-Licorne-par-un-naturaliste-de-Montpellier
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67932'
